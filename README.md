@@ -45,12 +45,15 @@ I enjoy turning ideas into working projects—especially projects involving Pyth
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schhidal&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schhidal&layout=compact&theme=tokyonight" />
-</p>
+- 🔭 Currently building projects with Python, Django, Linux, Docker, and embedded systems  
+- 🌱 Learning network automation, infrastructure management, and DevOps tools  
+- 💬 Ask me about Python, Linux, Arduino, AVR, C/C++, networking, and Git  
+- 📫 Reach me at: your.email@example.com  
+
+[![GitHub followers](https://img.shields.io/github/followers/schhidal?style=for-the-badge&logo=github&color=blue)](https://github.com/schhidal?tab=followers)
+[![GitHub repos](https://img.shields.io/badge/Repositories-Visit%20Profile-blue?style=for-the-badge&logo=github)](https://github.com/schhidal?tab=repositories)
 
 ---
 
