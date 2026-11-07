@@ -50,7 +50,7 @@ I enjoy turning ideas into working projects—especially projects involving Pyth
 - 🔭 Currently building projects with Python, Django, Linux, Docker, and embedded systems  
 - 🌱 Learning network automation, infrastructure management, and DevOps tools  
 - 💬 Ask me about Python, Linux, Arduino, AVR, C/C++, networking, and Git  
-- 📫 Reach me at: your.email@example.com  
+- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-c-88a9b7118/)
 
 [![GitHub followers](https://img.shields.io/github/followers/schhidal?style=for-the-badge&logo=github&color=blue)](https://github.com/schhidal?tab=followers)
 [![GitHub repos](https://img.shields.io/badge/Repositories-Visit%20Profile-blue?style=for-the-badge&logo=github)](https://github.com/schhidal?tab=repositories)
