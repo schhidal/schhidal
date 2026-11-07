@@ -60,7 +60,7 @@ I enjoy turning ideas into working projects—especially projects involving Pyth
 ## 🌍 Languages
 
 - 🇬🇧 English — Professional working proficiency  
-- 🇩🇪 German — IProfessional working proficiency  
+- 🇩🇪 German — Professional working proficiency  
 
 ---
 
