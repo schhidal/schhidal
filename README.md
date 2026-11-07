@@ -59,9 +59,8 @@ I enjoy turning ideas into working projects—especially projects involving Pyth
 
 ## 🌍 Languages
 
-- 🇳🇵 Nepali — Native  
 - 🇬🇧 English — Professional working proficiency  
-- 🇩🇪 German — Improving for professional and daily communication  
+- 🇩🇪 German — IProfessional working proficiency  
 
 ---
 
